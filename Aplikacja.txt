@@ -2,4 +2,9 @@
         System.out.println("Podaj użytkownika!");
         System.out.println("Podaj hasło!");
         System.out.println("Kliknij na przycisk zaloguj!");
+    }   
+   public void logowanieGoogle() {
+        System.out.println("Podaj email Gmail");
+        System.out.println("Podaj hasło!");
+        System.out.println("Kliknij na przycisk zaloguj!");
     }
